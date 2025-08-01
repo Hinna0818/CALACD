@@ -17,5 +17,5 @@
 ---
 
 ## Contact
-If you have any questions, please feel free to contact:  
+If you have any question, please feel free to contact:  
 nanh302311@gmail.com
