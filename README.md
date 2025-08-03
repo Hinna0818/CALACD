@@ -10,6 +10,9 @@
   - M10: Most active 10-hour window
   - L5: Least active 5-hour window
   - RA: Relative amplitude = (M10 - L5) / (M10 + L5)
+  - LPA: Light Physical Activity (30–125 mg)
+  - MPA: Moderate Physical Activity (>125–400 mg)
+  - VPA: Vigorous Physical Activity (>400 mg)
 - 📦 Designed for datasets with 24-hour activity columns per participant
 - 🧩 Modular functions with Roxygen2 documentation
 - 📊 Ideal for epidemiological studies involving rest-activity rhythms
